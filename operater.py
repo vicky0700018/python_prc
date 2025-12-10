@@ -1,0 +1,23 @@
+# => it can perform any specific task between two operands.
+
+# Types of Operator:-
+
+# # assignment operators
+# ## Logical Operators 
+# ## bitwise operators
+# ## Identify operators
+# ## Membership operators
+
+#  Data TYpe:-
+
+# integer => 55,56,33,22,12,2  
+
+# float => 5.5, 6.1, 2.3, 8.9 
+
+# string => "Rudra", "Tridev", "Vicky", "PRem"
+
+# Boolean => True , False
+
+
+# NOte: operands OR Variable 
+
